@@ -1,3 +1,4 @@
+const global = {};
 /*
 Backend javascript for creating and playing sequences using Tone.js
 */
